@@ -1,1 +1,5 @@
-First step: install package manager: http://wbond.net/sublime_packages/package_control
+First step: install package manager:
+    http://wbond.net/sublime_packages/package_control
+
+When finished install all the plugins, install soda-theme bonus options following these instructions:
+    https://github.com/buymeasoda/soda-theme#bonus-options
