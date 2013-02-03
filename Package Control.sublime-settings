@@ -1,0 +1,17 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Djaneiro",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Highlight",
+		"HTML5",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Terminal",
+		"Theme - Soda",
+		"Tomorrow Color Schemes"
+	]
+}

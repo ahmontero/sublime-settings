@@ -1,0 +1,10 @@
+{
+    "sublimelinter_executable_map":
+    {
+        "python": "path_to/bin/python",
+        "pep8": "path_to_pep8/bin/pep8",
+        "pyflakes": "path_to_pyflakes/bin/pyflakes"
+    },
+
+    "sublimelinter_popup_errors_on_save": false
+}

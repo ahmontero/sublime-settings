@@ -1,0 +1,75 @@
+{
+	"auto_complete": true,
+	"auto_indent": true,
+	"caret_style": "smooth",
+	"close_windows_when_empty": false,
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"detect_indentation": true,
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"ensure_newline_at_eof_on_save": true,
+	"file_exclude_patterns":
+	[
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd"
+	],
+	"find_selected_text": true,
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"__venv__"
+	],
+	"font_options":
+	[
+		"subpixel_antialias"
+	],
+	"font_size": 11.5,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_numbers": true,
+	"menu_visible": true,
+	"rulers":
+	[
+		80
+	],
+	"save_on_focus_lost": true,
+	"show_full_path": true,
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"soda_classic_tabs": true,
+	"status_bar_visible": true,
+	"tab_completion": true,
+	"tab_size": 4,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

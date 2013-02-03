@@ -1,0 +1,6 @@
+{
+"Python": {
+    "python": "path_to_python/bin/python",
+    "pythonExtraPaths": ["path_to_add/bin/__venv__/bin"]
+    }
+}
